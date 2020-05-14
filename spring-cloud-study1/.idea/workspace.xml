@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc6788cc-38d2-491f-8e4a-7f33c0e2ed96" name="Default Changelist" comment="删除pom描述">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-ribbon/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-ribbon/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-ribbon/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-ribbon/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-ribbon/src/main/java/com/example/serviceribbon/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-ribbon/src/main/java/com/example/serviceribbon/HelloService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-ribbon/src/main/java/com/example/serviceribbon/ServiceRibbonApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-ribbon/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-ribbon/src/test/java/com/example/eurekaclient/EurekaClientApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-ribbon/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-ribbon/target/classes/com/example/eurekaclient/EurekaClientApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-ribbon/target/eureka-client-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-ribbon/target/eureka-client-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-ribbon/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-ribbon/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-ribbon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-ribbon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-ribbon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-ribbon/target/surefire-reports/TEST-com.example.eurekaclient.EurekaClientApplicationTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-ribbon/target/surefire-reports/com.example.eurekaclient.EurekaClientApplicationTests.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-ribbon/target/test-classes/com/example/eurekaclient/EurekaClientApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-client/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-client/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client/target/classes/com/example/eurekaclient/EurekaClientApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-client/target/classes/com/example/eurekaclient/EurekaClientApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.6.1/conf/settings-study.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bt4mmO9VmuBjVSEBsFUa6a2I4n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.idea" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.serviceribbon" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServiceRibbonApplication">
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings">
+          <MavenGeneralSettings>
+            <option name="alwaysUpdateSnapshots" value="false" />
+            <option name="checksumPolicy" value="NOT_SET" />
+            <option name="failureBehavior" value="NOT_SET" />
+            <option name="localRepository" value="" />
+            <option name="mavenHome" value="$USER_HOME$/apache-maven-3.6.1" />
+            <option name="nonRecursive" value="false" />
+            <option name="outputLevel" value="INFO" />
+            <option name="pluginUpdatePolicy" value="DEFAULT" />
+            <option name="printErrorStackTraces" value="false" />
+            <option name="threads" />
+            <option name="updateIndicesOnProjectOpen" value="true" />
+            <option name="usePluginRegistry" value="false" />
+            <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.6.1/conf/settings-leap.xml" />
+            <option name="workOffline" value="false" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="false" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="12" />
+            <option name="mavenProperties">
+              <map />
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="false" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="EurekaClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekaclient.EurekaClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceRibbonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-study1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekaclient.ServiceRibbonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc6788cc-38d2-491f-8e4a-7f33c0e2ed96" name="Default Changelist" comment="" />
+      <created>1589438216152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589438216152</updated>
+      <workItem from="1589438219641" duration="4000" />
+      <workItem from="1589438243445" duration="1735000" />
+      <workItem from="1589441355372" duration="771000" />
+      <workItem from="1589444133498" duration="1726000" />
+      <workItem from="1589447082787" duration="579000" />
+      <workItem from="1589447762757" duration="6649000" />
+    </task>
+    <task id="LOCAL-00001" summary="删除pom描述">
+      <created>1589448246965</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589448246965</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="删除pom描述" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除pom描述" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589438406525">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state x="424" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1440.156.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1589438406525" />
+    <state x="449" y="23" key="CommitChangelistDialog2" timestamp="1589456092587">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state x="449" y="23" key="CommitChangelistDialog2/-1440.156.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1589456092587" />
+    <state x="205" y="113" key="DiffContextDialog" timestamp="1589448022286">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state x="205" y="113" key="DiffContextDialog/-1440.156.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1589448022286" />
+    <state width="1868" height="240" key="GridCell.Tab.0.bottom" timestamp="1589455428345">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state width="1868" height="240" key="GridCell.Tab.0.bottom/-1440.156.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1589455428345" />
+    <state width="1868" height="240" key="GridCell.Tab.0.center" timestamp="1589455428344">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state width="1868" height="240" key="GridCell.Tab.0.center/-1440.156.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1589455428344" />
+    <state width="1868" height="240" key="GridCell.Tab.0.left" timestamp="1589455428343">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state width="1868" height="240" key="GridCell.Tab.0.left/-1440.156.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1589455428343" />
+    <state width="1868" height="240" key="GridCell.Tab.0.right" timestamp="1589455428344">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state width="1868" height="240" key="GridCell.Tab.0.right/-1440.156.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1589455428344" />
+    <state width="1868" height="240" key="GridCell.Tab.1.bottom" timestamp="1589455428347">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state width="1868" height="240" key="GridCell.Tab.1.bottom/-1440.156.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1589455428347" />
+    <state width="1868" height="240" key="GridCell.Tab.1.center" timestamp="1589455428346">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state width="1868" height="240" key="GridCell.Tab.1.center/-1440.156.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1589455428346" />
+    <state width="1868" height="240" key="GridCell.Tab.1.left" timestamp="1589455428345">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state width="1868" height="240" key="GridCell.Tab.1.left/-1440.156.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1589455428345" />
+    <state width="1868" height="240" key="GridCell.Tab.1.right" timestamp="1589455428346">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state width="1868" height="240" key="GridCell.Tab.1.right/-1440.156.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1589455428346" />
+    <state x="614" y="90" key="RollbackChangesDialog" timestamp="1589444720340">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state x="614" y="90" key="RollbackChangesDialog/-1440.156.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1589444720340" />
+    <state x="320" y="23" key="SettingsEditor" timestamp="1589454364784">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state x="320" y="23" key="SettingsEditor/-1440.156.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1589454364784" />
+    <state x="460" y="200" key="Vcs.Push.Dialog.v2" timestamp="1589448255983">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state x="460" y="200" key="Vcs.Push.Dialog.v2/-1440.156.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1589448255983" />
+    <state x="560" y="322" key="com.intellij.ide.util.TipDialog" timestamp="1589447762999">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state x="560" y="322" key="com.intellij.ide.util.TipDialog/-1440.156.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1589447762999" />
+    <state x="566" y="221" width="895" height="614" key="find.popup" timestamp="1589455542570">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state x="566" y="221" width="895" height="614" key="find.popup/-1440.156.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1589455542570" />
+    <state x="541" y="240" width="838" height="1032" key="run.anything.popup" timestamp="1589441144456">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state x="541" y="240" width="838" height="1032" key="run.anything.popup/-1440.156.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1589441144456" />
+    <state x="541" y="23" width="838" height="1011" key="search.everywhere.popup" timestamp="1589455529735">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state x="541" y="23" width="838" height="1011" key="search.everywhere.popup/-1440.156.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1589455529735" />
+  </component>
+</project>
