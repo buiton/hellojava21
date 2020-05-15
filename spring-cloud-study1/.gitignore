@@ -1,4 +1,3 @@
-target/
 !.mvn/wrapper/maven-wrapper.jar
 log/
 tomcat/
@@ -12,7 +11,6 @@ tomcat/
 .sts4-cache
 
 ### IntelliJ IDEA ##
-.idea
 *.iws
 *.iml
 *.ipr
@@ -25,3 +23,5 @@ tomcat/
 /nbdist/
 /.nb-gradle/
 rebel.xml
+/.idea/
+/target/
