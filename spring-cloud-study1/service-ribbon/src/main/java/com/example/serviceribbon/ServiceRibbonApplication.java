@@ -1,3 +1,4 @@
+
 package com.example.serviceribbon;
 
 
@@ -22,4 +23,3 @@ public class ServiceRibbonApplication {
         return new RestTemplate();
     }
 }
-
